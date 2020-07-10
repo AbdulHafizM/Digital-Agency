@@ -314,7 +314,17 @@ li a{
 input[type=text]{
    height: 30px;
 }
-
+.email_btn{
+    margin-top: 15px;
+    background: purple;
+    padding: 11px 25px;
+    border: none;
+    border-radius: 17px;
+}
+.email_btn:hover{
+    background: linear-gradient(90deg,#a517ba,rgb(230, 57, 230));
+    opacity: 0.8;
+}
 
 
 
